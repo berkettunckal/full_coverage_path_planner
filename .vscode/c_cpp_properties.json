@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/berke/catkin_ws/install_isolated/include/**",
+        "/home/berke/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/berke/catkin_ws/src/full_coverage_path_planner/include/**",
+        "/home/berke/catkin_ws/src/path_tracking_pid/include/**",
+        "/home/berke/catkin_ws/src/robovak/robovak_base/include/**",
+        "/home/berke/catkin_ws/src/robovak/robovak_control/include/**",
+        "/home/berke/catkin_ws/src/tracking_pid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
